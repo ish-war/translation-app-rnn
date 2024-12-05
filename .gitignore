@@ -1,0 +1,27 @@
+# ignore virtual environment
+myenv/
+
+# ignore model folders
+english_to_french_model/
+transformer_model/
+
+# ignore jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# ignore compiled python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore log files
+*.log
+*.txt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+
+
+
